@@ -1,3 +1,4 @@
+
 import { HeroSection } from "@/components/hero-section"
 import { AboutSection } from "@/components/about-section"
 import { ServicesSection } from "@/components/services-section"
@@ -25,3 +26,8 @@ export default function Home() {
     </div>
   )
 }
+export default function Home() {
+  export default function Page() {
+    git add .
+git commit -m "Fix homepage export name"
+git push
